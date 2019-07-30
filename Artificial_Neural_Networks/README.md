@@ -1,0 +1,1 @@
+### This is a folder that contains notebooks on a churn prediction model for a bank using artificial neural networks.
